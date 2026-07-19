@@ -8,7 +8,7 @@ const totalPrice = orangePrice + mangoPrice
 
 const firstName = "syed"
 const lastName = "sami"
-// console.log(firstName+lastName)
+console.log(firstName+lastName)
 
 const numberString = '20.6'
 // const number = parseInt(numberString) purno shonghka kore fele
@@ -22,3 +22,5 @@ const secondNumber = 0.2
 const total = firstNumber+secondNumber
 const totalTwoDecimal = total.toFixed(2)
 console.log(totalTwoDecimal)
+
+
